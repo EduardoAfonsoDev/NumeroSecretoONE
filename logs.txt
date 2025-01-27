@@ -1,0 +1,20 @@
+PS D:\Projeto ONE\js-curso-2-aula1> git log
+commit 924a7aa6e00866bce7358ee3b9661a393ea2be77 (HEAD -> main, origin/main) 
+Author: Eduardo Afonso <128631397+EduardoAfonsoDev@users.noreply.github.com>
+Date:   Mon Jan 27 17:14:03 2025 -0300
+
+    Update README.md
+
+commit cc584d31e2ef5c3c1515aa555d5b3ef8122af7db
+Author: Eduardo Afonso <128631397+EduardoAfonsoDev@users.noreply.github.com>
+Date:   Mon Jan 27 17:13:23 2025 -0300
+
+    Update README.md
+
+commit 6d280b7845677f3f1fb45418fd87e81668526315
+Author: Eduardo Afonso <eduardoafonsodev@gmail.com>
+Date:   Mon Jan 27 17:07:10 2025 -0300
+
+    atualizando o readme
+
+commit 216145a86b628d1e34ece30e89097abb8579aee8
